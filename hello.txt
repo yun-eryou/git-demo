@@ -14,3 +14,4 @@ hello git
 hello git master test  
 hello git hot-fix test
 new something
+你棒棒的
